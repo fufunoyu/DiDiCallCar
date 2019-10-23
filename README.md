@@ -4,7 +4,7 @@ I complete this whole project on my own . Including Android application programm
 1．Map route planing。You can use mobile phone choose pick up & destination address，application provide address name hint and draw optimized route for user , then call car for you.
 2．RFID authentication function：User can use application to scan driver license or other RFID hardware, then use NDK MD5 algorithm encrypt RFID number, and send it to Web Server Database, check with driver information and authenticate ID number , if ID number coherent with driver info , send back driver information to User and continue call car order . record user location  and alert if ID not coherent.
 3．Driver License Number Recognition : Application can recognize driver license digit number ,and also can send to web server for authentication & feed back result to user.
-
+ 
 
 这是我自己做的一个仿滴滴打车的Android出行项目，主要针对滴滴等出行平台一直饱受质疑的“人车不符”问题，以及当前越发火热的国际化和出海战略，给出行项目增加了下面几个功能：
 
